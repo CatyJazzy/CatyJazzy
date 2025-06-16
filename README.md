@@ -11,7 +11,7 @@
 > 산책과 자전거로 고민을 해결합니다.  
 > 스스로에게 떳떳한 과정이 성과를 만들어내는 출발점이라 믿습니다.
 
-**(F1 Mercedes-AMG PETRONAS 팀을 응원합니다 🏎️)**
+**F1 Mercedes-AMG PETRONAS 팀을 응원합니다 🏎️**
 
 
 ## 🛠️ Tech Stack
