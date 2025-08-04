@@ -51,6 +51,7 @@
 
 ## 💼 Work Experience
 
+- **서울의료정보연구소(세브란스)** - Frontend Developer (2025.07 ~)
 - **MIRIDIH - Miricanvas Engine Team** | Frontend Intern (2024.12 ~ 2025.02)
 - **FineStays - Impact Junior** | Sales & Business Development (2023.06 ~ 2023.12)
 
